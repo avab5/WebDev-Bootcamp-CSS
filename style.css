@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  border: 10px solid rgb(251, 207, 32);
+}
+#description {
+  text-align: center;
+  font-weight: bold;
+  border: 5px solid rgb(251, 207, 32);
+}
+p {
+  font-size: 18px;
+}
+body {
+  background-color: sandybrown;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: "Courier New", Courier, monospace;
+}
